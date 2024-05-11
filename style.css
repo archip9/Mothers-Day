@@ -1,0 +1,18 @@
+body,html{
+	background: url("Background.jpg") no-repeat center center fixed;
+	-webkit-background-size: cover;
+}
+h1{
+	color:rgba(230,0,150,0.8);
+	text-shadow: 4px 4px 4px rgb(255,146,140,0.6);
+	font-family: "Montserrat", sans-serif;
+}
+p{
+	color:rgba(50,60,250);
+	text-align: left;
+	font-size:130%;
+}
+a{
+	color:black;
+	font-size: 150%;
+}

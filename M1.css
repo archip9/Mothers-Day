@@ -1,0 +1,16 @@
+body,html{
+	background-color: lightblue;
+}
+h2{
+	color:brown;
+}
+p{
+	color:rgba(230, 100, 15, 0.8);
+}
+h3{
+	color:maroon;
+}
+a{
+	color:black;
+	font-size: 150%;
+}
